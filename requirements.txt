@@ -1,0 +1,13 @@
+# --- RazerTerm_IA: Librerías base para 2026 ---
+
+# Framework principal para la interfaz de Telegram (v20+ asíncrona)
+python-telegram-bot==20.7
+
+# Cliente HTTP asíncrono para la conexión con Koboldcpp
+httpx==0.28.1
+
+# Gestión de variables de entorno (archivo .env)
+python-dotenv==1.0.1
+
+# Auditoría de logs y procesos (opcional, pero recomendada)
+logging==0.4.9.6
