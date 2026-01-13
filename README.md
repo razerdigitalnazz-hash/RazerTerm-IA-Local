@@ -1,28 +1,28 @@
-# ?? RazerTerm_IA (v1.0): Agente de Asistencia de C®Ædigo Accesible
+# üöÄ RazerTerm_IA (v1.0): Agente de Asistencia de C√≥digo Accesible
 
 > **Estado:** Alpha v1.0 | **Plataforma:** Telegram Bot | **Backend:** Local (Python + Koboldcpp)
 
-**RazerTerm_IA** es un asistente inteligente dise?ado para democratizar el acceso a la programaci®Æn. Funciona como un "Compa?ero de C®Ædigo" accesible directamente desde Telegram, permitiendo a desarrolladores generar, corregir y consultar snippets de c®Ædigo al instante, sin depender de interfaces web pesadas.
+**RazerTerm_IA** es un asistente inteligente dise√±ado para democratizar el acceso a la programaci√≥n. Funciona como un "Compa√±ero de C√≥digo" accesible directamente desde Telegram, permitiendo a desarrolladores generar, corregir y consultar snippets de c√≥digo al instante, sin depender de interfaces web pesadas.
 
-## ?? Objetivo del Proyecto
-Crear una herramienta de **accesibilidad universal** para programadores. Al ejecutarse en Telegram, permite obtener ayuda de codificaci®Æn incluso con conexiones lentas o desde dispositivos m®Æviles b®¢sicos, procesando toda la inteligencia en un servidor local optimizado.
+## üéØ Objetivo del Proyecto
+Crear una herramienta de **accesibilidad universal** para programadores. Al ejecutarse en Telegram, permite obtener ayuda de codificaci√≥n incluso con conexiones lentas o desde dispositivos m√≥viles b√°sicos, procesando toda la inteligencia en un servidor local optimizado.
 
-## ??? Infraestructura & Optimizaci®Æn (Legacy Hardware)
-Este proyecto demuestra que la IA es viable en hardware reutilizado mediante ingenier®™a de software eficiente.
+## üñ•Ô∏è Infraestructura & Optimizaci√≥n (Legacy Hardware)
+Este proyecto demuestra que la IA es viable en hardware reutilizado mediante ingenier√≠a de software eficiente.
 
-* **CPU:** Intel Core i3-2120 (2.a Gen - Sandy Bridge).
+* **CPU:** Intel Core i3-2120 (2.¬™ Gen - Sandy Bridge).
 * **GPU:** AMD Radeon RX 570 4GB (Vulkan/ROCm).
 * **RAM:** 16GB DDR3.
-* **Sistema Operativo:** H®™brido (Desarrollado en Windows / Desplegado en Xubuntu).
-* **Optimizaciones:** Arquitectura as®™ncrona (`asyncio` + `httpx`) para evitar cuellos de botella en el i3 durante la inferencia neuronal.
+* **Sistema Operativo:** H√≠brido (Desarrollado en Windows / Desplegado en Xubuntu).
+* **Optimizaciones:** Arquitectura as√≠ncrona (`asyncio` + `httpx`) para evitar cuellos de botella en el i3 durante la inferencia neuronal.
 
-## ?? Roadmap: ?Qu®¶ viene en la v1.1?
-Este agente est®¢ en evoluci®Æn constante. Las pr®Æximas actualizaciones incluir®¢n:
-* ? **Asistente Git:** Generaci®Æn autom®¢tica de comandos para control de versiones (`git push`, `commit`, `branch`).
-* ? **Refactorizaci®Æn:** M®Ædulo para limpiar y optimizar c®Ædigo sucio.
-* ? **Modo Docker:** Despliegue autom®¢tico del bot en contenedores.
+## üîÆ Roadmap: ¬øQu√© viene en la v1.1?
+Este agente est√° en evoluci√≥n constante. Las pr√≥ximas actualizaciones incluir√°n:
+* ‚úÖ **Asistente Git:** Generaci√≥n autom√°tica de comandos para control de versiones (`git push`, `commit`, `branch`).
+* ‚úÖ **Refactorizaci√≥n:** M√≥dulo para limpiar y optimizar c√≥digo sucio.
+* ‚úÖ **Modo Docker:** Despliegue autom√°tico del bot en contenedores.
 
-## ??? Stack Tecnol®Ægico
+## üõ†Ô∏è Stack Tecnol√≥gico
 * **Python 3.10**
 * **Telegram Bot API (v20+)**
 * **Koboldcpp (GGUF Models)**
